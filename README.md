@@ -1,6 +1,4 @@
-# arboles
-
- Arbol
+# Árbol 
 
 Un árbol es una estructura de datos no lineal puesto que cada elemento apunta a uno o varios elementos del mismo tipo; esto es dado un elemento, no hay un único camino a seguir. El elemento que apunta a otro es llamado padre, mientras que el elemento apuntado se conoce como hijo. Todos los elementos tienen un padre a excepción de la raíz. Puede decirse que un árbol esta formado por subárboles resaltando así su naturaleza recursiva.
 
@@ -48,7 +46,21 @@ Es la manera recursiva como pasaremos por cada nodo del árbol, existes tres for
 
 ---Postorden: Primero hijo izquierdo, luego el hijo derecho y finalmente el padre
 
-implementaciónen lenguaje C++
+# implementación en lenguaje C++
 
+Este programa se encargara de realizar los recorridos(amplitud) por Orden,pre-orden y post-orden, assi como tambien agregar 
+nodos a el arbol y mostrarlo.
 
+![image](https://user-images.githubusercontent.com/72089660/97506506-af9f8300-1940-11eb-8b3b-ffb87ed626f2.png)
+
+Primero creamos el nodo:
+
+  struct nodo{
+   int dato;
+   struct nodo *der;
+   struct nodo *izq;
+  }; como se a mostrado en la introduccion se sabe que un arbol consta de tres campos : dato, puntero derecho y puntero izquierdo.
+en la funcion insertar es donde ocurre el proceso aqui por medio de la condicional if dice que el arbol no tiene ningun nodo, estos
+los va a digitar el usuario y que si el nodo hijo exede  al nodo padre este se va a la derecha en cambio si es menor este va  la
+izquierda.
 
