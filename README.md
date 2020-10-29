@@ -64,3 +64,12 @@ en la funcion insertar es donde ocurre el proceso aqui por medio de la condicion
 los va a digitar el usuario y que si el nodo hijo exede  al nodo padre este se va a la derecha en cambio si es menor este va  la
 izquierda.
 
+![image](https://user-images.githubusercontent.com/72089660/97508651-c0062c80-1945-11eb-90c3-73339299e063.png)
+
+En la funcion preOrden se hace el recorrido empezando en el nodo padre,luego al nodo hijo izquierdo y finalizando con el nodo hijo derecho.
+
+En la siguiente funcion es donde hace el proceso de ordenar el recorrido(amplitud) En orden quiere decir que se va empezar   
+el recorrido del nodo hijo izquierdo, luego el nodo padre y finalizando con el nodo hijo derecho.
+
+En la funcion postOrden el recorrido empieza del nodo hijo dereho,luego el padre y finalizando con el nodo hijo izquierdo
+
