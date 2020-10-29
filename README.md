@@ -80,4 +80,6 @@ En el main se encargara de llamar las funciones empleadas para realizar el proce
  
  # Resultado
  
+ ![image](https://user-images.githubusercontent.com/72089660/97510102-9ea73f80-1949-11eb-8f7a-50e0bfd0fdd2.png)
  
+ Arbol de 7 nodos
