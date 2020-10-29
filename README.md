@@ -73,3 +73,11 @@ el recorrido del nodo hijo izquierdo, luego el nodo padre y finalizando con el n
 
 En la funcion postOrden el recorrido empieza del nodo hijo dereho,luego el padre y finalizando con el nodo hijo izquierdo
 
+![image](https://user-images.githubusercontent.com/72089660/97509758-c6e26e80-1948-11eb-9ed6-659954842b41.png)
+
+En el main se encargara de llamar las funciones empleadas para realizar el proceso, asi como mostrar en pantalla el numero de nodos,
+ los recorridos efectuados y mostrar el arbol 
+ 
+ # Resultado
+ 
+ 
