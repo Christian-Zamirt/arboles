@@ -46,7 +46,7 @@ Es la manera recursiva como pasaremos por cada nodo del árbol, existes tres for
 
 ---Postorden: Primero hijo izquierdo, luego el hijo derecho y finalmente el padre
 
-# implementación en lenguaje C++
+# Implementación en lenguaje C++
 
 Este programa se encargara de realizar los recorridos(amplitud) por Orden,pre-orden y post-orden, assi como tambien agregar 
 nodos a el arbol y mostrarlo.
