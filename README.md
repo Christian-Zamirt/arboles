@@ -71,7 +71,7 @@ En la funcion preOrden se hace el recorrido empezando en el nodo padre,luego al 
 En la siguiente funcion es donde hace el proceso de ordenar el recorrido(amplitud) En orden quiere decir que se va empezar   
 el recorrido del nodo hijo izquierdo, luego el nodo padre y finalizando con el nodo hijo derecho.
 
-En la funcion postOrden el recorrido empieza del nodo hijo dereho,luego el padre y finalizando con el nodo hijo izquierdo
+En la funcion postOrden el recorrido empieza Primero del nodo hijo izquierdo, luego el nodo hijo derecho y finalmente el nodo padre
 
 ![image](https://user-images.githubusercontent.com/72089660/97509758-c6e26e80-1948-11eb-9ed6-659954842b41.png)
 
