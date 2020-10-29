@@ -79,7 +79,10 @@ En el main se encargara de llamar las funciones empleadas para realizar el proce
  los recorridos efectuados y mostrar el arbol 
  
  # Resultado
+ Arbol de 5 nodos
  
  ![image](https://user-images.githubusercontent.com/72089660/97510102-9ea73f80-1949-11eb-8f7a-50e0bfd0fdd2.png)
  
  Arbol de 7 nodos
+ 
+ ![image](https://user-images.githubusercontent.com/72089660/97510534-8a177700-194a-11eb-8689-c0d0daed9ae2.png)
